@@ -16,7 +16,7 @@ project 2 making a module programming + setting a tasklet.
 
 logic& result
 ===
-![image](https://user-images.githubusercontent.com/19410415/114344301-88f5a180-9b9a-11eb-8afc-30b6af4d8fed.png)
+![image](https://user-images.githubusercontent.com/19410415/114344544-fbff1800-9b9a-11eb-9892-ecd20a936e54.png)
 ![image](https://user-images.githubusercontent.com/19410415/114344337-94e16380-9b9a-11eb-8b10-0049a14e1e3d.png)
 ![image](https://user-images.githubusercontent.com/19410415/114344344-99a61780-9b9a-11eb-83a8-50fe29fed38b.png)
 
